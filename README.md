@@ -1,2 +1,1 @@
-renan
-pensamento computacional
+# renan
