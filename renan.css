@@ -1,11 +1,13 @@
-body {background-color: rgb(113, 69, 155);
-
-text-align: center;}
-
-.papai-cris {
-  color: blue 
+body {
+    background-color: aqua;
+    text-align: center;
 }
 
-.neymar{
-  color:violet
+h1 {
+    color: blueviolet;
 }
+
+.veneno{
+    color: aqua
+}
+
